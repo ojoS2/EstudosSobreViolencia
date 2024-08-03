@@ -1,0 +1,320 @@
+,Data,Municipio,Taxa de crimes violentos contra o patrimônio,Tipo
+0,2000-01-01,Confins,0.0,dados de treino
+1,2001-01-01,Confins,0.0,dados de treino
+2,2002-01-01,Confins,19.69,dados de treino
+3,2003-01-01,Confins,444.06,dados de treino
+4,2004-01-01,Confins,473.26,dados de treino
+5,2005-01-01,Confins,501.19,dados de treino
+6,2006-01-01,Confins,491.48,dados de treino
+7,2007-01-01,Confins,321.33,dados de treino
+8,2008-01-01,Confins,105.05,dados de treino
+9,2009-01-01,Confins,154.56,dados de treino
+10,2010-01-01,Confins,185.31,dados de treino
+11,2011-01-01,Confins,510.45,dados de treino
+12,2012-01-01,Confins,406.17,dados de treino
+13,2013-01-01,Confins,657.01,dados de treino
+14,2014-01-01,Confins,471.7,dados de treino
+15,2015-01-01,Confins,655.26,dados reais usados para o teste
+16,2016-01-01,Confins,941.75,dados reais usados para o teste
+17,2017-01-01,Confins,871.29,dados reais usados para o teste
+18,2018-01-01,Confins,703.14,dados reais usados para o teste
+19,2019-01-01,Confins,297.18,dados reais usados para o teste
+20,2020-01-01,Confins,117.65,dados reais usados para o teste
+21,2021-01-01,Confins,72.81,dados reais usados para o teste
+22,2015-01-01,Confins,565.9038322527515,projeções obtidas
+23,2016-01-01,Confins,471.69813769087534,projeções obtidas
+24,2017-01-01,Confins,494.8088291665505,projeções obtidas
+25,2018-01-01,Confins,434.4601167179129,projeções obtidas
+26,2019-01-01,Confins,422.77552891139686,projeções obtidas
+27,2020-01-01,Confins,372.48690542251177,projeções obtidas
+28,2021-01-01,Confins,342.22760296548114,projeções obtidas
+29,2000-01-01,Ibirité,768.92,dados de treino
+30,2001-01-01,Ibirité,552.86,dados de treino
+31,2002-01-01,Ibirité,640.83,dados de treino
+32,2003-01-01,Ibirité,760.42,dados de treino
+33,2004-01-01,Ibirité,580.47,dados de treino
+34,2005-01-01,Ibirité,340.07,dados de treino
+35,2006-01-01,Ibirité,232.84,dados de treino
+36,2007-01-01,Ibirité,231.42,dados de treino
+37,2008-01-01,Ibirité,174.6,dados de treino
+38,2009-01-01,Ibirité,94.11,dados de treino
+39,2010-01-01,Ibirité,70.46,dados de treino
+40,2011-01-01,Ibirité,142.5,dados de treino
+41,2012-01-01,Ibirité,202.46,dados de treino
+42,2013-01-01,Ibirité,223.34,dados de treino
+43,2014-01-01,Ibirité,349.79,dados de treino
+44,2015-01-01,Ibirité,396.42,dados reais usados para o teste
+45,2016-01-01,Ibirité,393.33,dados reais usados para o teste
+46,2017-01-01,Ibirité,361.98,dados reais usados para o teste
+47,2018-01-01,Ibirité,281.16,dados reais usados para o teste
+48,2019-01-01,Ibirité,213.09,dados reais usados para o teste
+49,2020-01-01,Ibirité,129.56,dados reais usados para o teste
+50,2021-01-01,Ibirité,120.63,dados reais usados para o teste
+51,2015-01-01,Ibirité,425.5897039053416,projeções obtidas
+52,2016-01-01,Ibirité,407.47866141650115,projeções obtidas
+53,2017-01-01,Ibirité,401.44460737737285,projeções obtidas
+54,2018-01-01,Ibirité,347.3527007870134,projeções obtidas
+55,2019-01-01,Ibirité,242.2470953985378,projeções obtidas
+56,2020-01-01,Ibirité,183.3863968191324,projeções obtidas
+57,2021-01-01,Ibirité,155.50025705111472,projeções obtidas
+58,2000-01-01,Lagoa Santa,232.36,dados de treino
+59,2001-01-01,Lagoa Santa,181.38,dados de treino
+60,2002-01-01,Lagoa Santa,212.58,dados de treino
+61,2003-01-01,Lagoa Santa,243.97,dados de treino
+62,2004-01-01,Lagoa Santa,391.18,dados de treino
+63,2005-01-01,Lagoa Santa,353.94,dados de treino
+64,2006-01-01,Lagoa Santa,294.87,dados de treino
+65,2007-01-01,Lagoa Santa,323.19,dados de treino
+66,2008-01-01,Lagoa Santa,294.57,dados de treino
+67,2009-01-01,Lagoa Santa,320.56,dados de treino
+68,2010-01-01,Lagoa Santa,241.81,dados de treino
+69,2011-01-01,Lagoa Santa,474.73,dados de treino
+70,2012-01-01,Lagoa Santa,358.96,dados de treino
+71,2013-01-01,Lagoa Santa,367.48,dados de treino
+72,2014-01-01,Lagoa Santa,405.56,dados de treino
+73,2015-01-01,Lagoa Santa,475.15,dados reais usados para o teste
+74,2016-01-01,Lagoa Santa,407.26,dados reais usados para o teste
+75,2017-01-01,Lagoa Santa,274.8,dados reais usados para o teste
+76,2018-01-01,Lagoa Santa,220.82,dados reais usados para o teste
+77,2019-01-01,Lagoa Santa,216.96,dados reais usados para o teste
+78,2020-01-01,Lagoa Santa,123.37,dados reais usados para o teste
+79,2021-01-01,Lagoa Santa,86.9,dados reais usados para o teste
+80,2015-01-01,Lagoa Santa,429.0990579555943,projeções obtidas
+81,2016-01-01,Lagoa Santa,326.69553454362114,projeções obtidas
+82,2017-01-01,Lagoa Santa,354.48216721088204,projeções obtidas
+83,2018-01-01,Lagoa Santa,281.36703271021537,projeções obtidas
+84,2019-01-01,Lagoa Santa,197.66807946609185,projeções obtidas
+85,2020-01-01,Lagoa Santa,80.24741476043761,projeções obtidas
+86,2021-01-01,Lagoa Santa,-21.484977457078088,projeções obtidas
+87,2000-01-01,Igarapé,205.33,dados de treino
+88,2001-01-01,Igarapé,307.37,dados de treino
+89,2002-01-01,Igarapé,364.74,dados de treino
+90,2003-01-01,Igarapé,454.28,dados de treino
+91,2004-01-01,Igarapé,361.82,dados de treino
+92,2005-01-01,Igarapé,577.27,dados de treino
+93,2006-01-01,Igarapé,400.49,dados de treino
+94,2007-01-01,Igarapé,339.59,dados de treino
+95,2008-01-01,Igarapé,260.83,dados de treino
+96,2009-01-01,Igarapé,308.59,dados de treino
+97,2010-01-01,Igarapé,252.5,dados de treino
+98,2011-01-01,Igarapé,365.82,dados de treino
+99,2012-01-01,Igarapé,442.56,dados de treino
+100,2013-01-01,Igarapé,614.04,dados de treino
+101,2014-01-01,Igarapé,878.02,dados de treino
+102,2015-01-01,Igarapé,937.63,dados reais usados para o teste
+103,2016-01-01,Igarapé,911.38,dados reais usados para o teste
+104,2017-01-01,Igarapé,906.27,dados reais usados para o teste
+105,2018-01-01,Igarapé,582.08,dados reais usados para o teste
+106,2019-01-01,Igarapé,404.23,dados reais usados para o teste
+107,2020-01-01,Igarapé,301.25,dados reais usados para o teste
+108,2021-01-01,Igarapé,235.63,dados reais usados para o teste
+109,2015-01-01,Igarapé,883.6526839713254,projeções obtidas
+110,2016-01-01,Igarapé,880.8848736084992,projeções obtidas
+111,2017-01-01,Igarapé,804.6417564546766,projeções obtidas
+112,2018-01-01,Igarapé,714.943844629174,projeções obtidas
+113,2019-01-01,Igarapé,459.56291414764416,projeções obtidas
+114,2020-01-01,Igarapé,310.54121425317766,projeções obtidas
+115,2021-01-01,Igarapé,147.6693071370176,projeções obtidas
+116,2000-01-01,Brumadinho,56.36,dados de treino
+117,2001-01-01,Brumadinho,54.98,dados de treino
+118,2002-01-01,Brumadinho,89.41,dados de treino
+119,2003-01-01,Brumadinho,94.21,dados de treino
+120,2004-01-01,Brumadinho,61.29,dados de treino
+121,2005-01-01,Brumadinho,136.22,dados de treino
+122,2006-01-01,Brumadinho,136.19,dados de treino
+123,2007-01-01,Brumadinho,91.78,dados de treino
+124,2008-01-01,Brumadinho,71.05,dados de treino
+125,2009-01-01,Brumadinho,45.23,dados de treino
+126,2010-01-01,Brumadinho,38.27,dados de treino
+127,2011-01-01,Brumadinho,61.66,dados de treino
+128,2012-01-01,Brumadinho,118.18,dados de treino
+129,2013-01-01,Brumadinho,135.4,dados de treino
+130,2014-01-01,Brumadinho,176.61,dados de treino
+131,2015-01-01,Brumadinho,232.26,dados reais usados para o teste
+132,2016-01-01,Brumadinho,197.49,dados reais usados para o teste
+133,2017-01-01,Brumadinho,176.74,dados reais usados para o teste
+134,2018-01-01,Brumadinho,158.55,dados reais usados para o teste
+135,2019-01-01,Brumadinho,109.72,dados reais usados para o teste
+136,2020-01-01,Brumadinho,63.94,dados reais usados para o teste
+137,2021-01-01,Brumadinho,50.96,dados reais usados para o teste
+138,2015-01-01,Brumadinho,179.0824888947362,projeções obtidas
+139,2016-01-01,Brumadinho,148.4471304770607,projeções obtidas
+140,2017-01-01,Brumadinho,134.35843195328596,projeções obtidas
+141,2018-01-01,Brumadinho,115.30293667666032,projeções obtidas
+142,2019-01-01,Brumadinho,104.8803482657843,projeções obtidas
+143,2020-01-01,Brumadinho,97.37248883602722,projeções obtidas
+144,2021-01-01,Brumadinho,97.37248883602722,projeções obtidas
+145,2000-01-01,Belo Horizonte,1022.41,dados de treino
+146,2001-01-01,Belo Horizonte,1009.42,dados de treino
+147,2002-01-01,Belo Horizonte,1226.14,dados de treino
+148,2003-01-01,Belo Horizonte,1796.75,dados de treino
+149,2004-01-01,Belo Horizonte,1694.71,dados de treino
+150,2005-01-01,Belo Horizonte,1451.7,dados de treino
+151,2006-01-01,Belo Horizonte,1197.48,dados de treino
+152,2007-01-01,Belo Horizonte,1056.33,dados de treino
+153,2008-01-01,Belo Horizonte,875.97,dados de treino
+154,2009-01-01,Belo Horizonte,736.31,dados de treino
+155,2010-01-01,Belo Horizonte,663.03,dados de treino
+156,2011-01-01,Belo Horizonte,870.64,dados de treino
+157,2012-01-01,Belo Horizonte,952.08,dados de treino
+158,2013-01-01,Belo Horizonte,1219.96,dados de treino
+159,2014-01-01,Belo Horizonte,1453.3,dados de treino
+160,2015-01-01,Belo Horizonte,1709.7,dados reais usados para o teste
+161,2016-01-01,Belo Horizonte,1884.3,dados reais usados para o teste
+162,2017-01-01,Belo Horizonte,1548.95,dados reais usados para o teste
+163,2018-01-01,Belo Horizonte,978.95,dados reais usados para o teste
+164,2019-01-01,Belo Horizonte,677.25,dados reais usados para o teste
+165,2020-01-01,Belo Horizonte,440.12,dados reais usados para o teste
+166,2021-01-01,Belo Horizonte,315.88,dados reais usados para o teste
+167,2015-01-01,Belo Horizonte,1659.0548481682183,projeções obtidas
+168,2016-01-01,Belo Horizonte,1664.6272418519866,projeções obtidas
+169,2017-01-01,Belo Horizonte,1522.0236045135134,projeções obtidas
+170,2018-01-01,Belo Horizonte,1272.260139419106,projeções obtidas
+171,2019-01-01,Belo Horizonte,987.0452668319235,projeções obtidas
+172,2020-01-01,Belo Horizonte,748.1918170180037,projeções obtidas
+173,2021-01-01,Belo Horizonte,624.1493770736425,projeções obtidas
+174,2000-01-01,Esmeraldas,157.15,dados de treino
+175,2001-01-01,Esmeraldas,225.75,dados de treino
+176,2002-01-01,Esmeraldas,204.03,dados de treino
+177,2003-01-01,Esmeraldas,244.34,dados de treino
+178,2004-01-01,Esmeraldas,153.78,dados de treino
+179,2005-01-01,Esmeraldas,99.39,dados de treino
+180,2006-01-01,Esmeraldas,89.65,dados de treino
+181,2007-01-01,Esmeraldas,237.44,dados de treino
+182,2008-01-01,Esmeraldas,214.27,dados de treino
+183,2009-01-01,Esmeraldas,221.01,dados de treino
+184,2010-01-01,Esmeraldas,190.8,dados de treino
+185,2011-01-01,Esmeraldas,286.45,dados de treino
+186,2012-01-01,Esmeraldas,253.7,dados de treino
+187,2013-01-01,Esmeraldas,374.97,dados de treino
+188,2014-01-01,Esmeraldas,433.04,dados de treino
+189,2015-01-01,Esmeraldas,597.0,dados reais usados para o teste
+190,2016-01-01,Esmeraldas,673.31,dados reais usados para o teste
+191,2017-01-01,Esmeraldas,679.15,dados reais usados para o teste
+192,2018-01-01,Esmeraldas,543.03,dados reais usados para o teste
+193,2019-01-01,Esmeraldas,287.73,dados reais usados para o teste
+194,2020-01-01,Esmeraldas,145.35,dados reais usados para o teste
+195,2021-01-01,Esmeraldas,108.95,dados reais usados para o teste
+196,2015-01-01,Esmeraldas,579.7635723501187,projeções obtidas
+197,2016-01-01,Esmeraldas,570.9747455641848,projeções obtidas
+198,2017-01-01,Esmeraldas,658.2910347368137,projeções obtidas
+199,2018-01-01,Esmeraldas,592.1286514734272,projeções obtidas
+200,2019-01-01,Esmeraldas,527.5200709078297,projeções obtidas
+201,2020-01-01,Esmeraldas,220.01830056454276,projeções obtidas
+202,2021-01-01,Esmeraldas,-108.61227726239326,projeções obtidas
+203,2000-01-01,Juatuba,494.23,dados de treino
+204,2001-01-01,Juatuba,337.28,dados de treino
+205,2002-01-01,Juatuba,378.76,dados de treino
+206,2003-01-01,Juatuba,328.4,dados de treino
+207,2004-01-01,Juatuba,372.54,dados de treino
+208,2005-01-01,Juatuba,350.91,dados de treino
+209,2006-01-01,Juatuba,381.08,dados de treino
+210,2007-01-01,Juatuba,320.43,dados de treino
+211,2008-01-01,Juatuba,306.12,dados de treino
+212,2009-01-01,Juatuba,273.84,dados de treino
+213,2010-01-01,Juatuba,180.16,dados de treino
+214,2011-01-01,Juatuba,289.82,dados de treino
+215,2012-01-01,Juatuba,582.18,dados de treino
+216,2013-01-01,Juatuba,783.71,dados de treino
+217,2014-01-01,Juatuba,1346.73,dados de treino
+218,2015-01-01,Juatuba,1289.16,dados reais usados para o teste
+219,2016-01-01,Juatuba,1716.47,dados reais usados para o teste
+220,2017-01-01,Juatuba,1448.33,dados reais usados para o teste
+221,2018-01-01,Juatuba,948.64,dados reais usados para o teste
+222,2019-01-01,Juatuba,653.16,dados reais usados para o teste
+223,2020-01-01,Juatuba,485.54,dados reais usados para o teste
+224,2021-01-01,Juatuba,255.18,dados reais usados para o teste
+225,2015-01-01,Juatuba,1468.5702345167701,projeções obtidas
+226,2016-01-01,Juatuba,1584.8699904053215,projeções obtidas
+227,2017-01-01,Juatuba,1484.638145186748,projeções obtidas
+228,2018-01-01,Juatuba,1123.3188573770717,projeções obtidas
+229,2019-01-01,Juatuba,798.1363474164787,projeções obtidas
+230,2020-01-01,Juatuba,419.4085123666286,projeções obtidas
+231,2021-01-01,Juatuba,131.41960652343369,projeções obtidas
+232,2000-01-01,Betim,787.8,dados de treino
+233,2001-01-01,Betim,724.94,dados de treino
+234,2002-01-01,Betim,854.44,dados de treino
+235,2003-01-01,Betim,886.15,dados de treino
+236,2004-01-01,Betim,697.51,dados de treino
+237,2005-01-01,Betim,736.14,dados de treino
+238,2006-01-01,Betim,722.35,dados de treino
+239,2007-01-01,Betim,640.2,dados de treino
+240,2008-01-01,Betim,541.34,dados de treino
+241,2009-01-01,Betim,467.35,dados de treino
+242,2010-01-01,Betim,432.17,dados de treino
+243,2011-01-01,Betim,541.59,dados de treino
+244,2012-01-01,Betim,697.13,dados de treino
+245,2013-01-01,Betim,975.17,dados de treino
+246,2014-01-01,Betim,1346.24,dados de treino
+247,2015-01-01,Betim,1469.6,dados reais usados para o teste
+248,2016-01-01,Betim,1710.85,dados reais usados para o teste
+249,2017-01-01,Betim,1431.39,dados reais usados para o teste
+250,2018-01-01,Betim,939.99,dados reais usados para o teste
+251,2019-01-01,Betim,674.65,dados reais usados para o teste
+252,2020-01-01,Betim,401.54,dados reais usados para o teste
+253,2021-01-01,Betim,263.99,dados reais usados para o teste
+254,2015-01-01,Betim,1468.616363907628,projeções obtidas
+255,2016-01-01,Betim,1424.1674907988204,projeções obtidas
+256,2017-01-01,Betim,1243.2450988104324,projeções obtidas
+257,2018-01-01,Betim,983.3736153408154,projeções obtidas
+258,2019-01-01,Betim,712.9337404795999,projeções obtidas
+259,2020-01-01,Betim,494.37601829092495,projeções obtidas
+260,2021-01-01,Betim,370.81814175659457,projeções obtidas
+261,2000-01-01,Caete,85.4,dados de treino
+262,2001-01-01,Caete,108.89,dados de treino
+263,2002-01-01,Caete,196.39,dados de treino
+264,2003-01-01,Caete,265.89,dados de treino
+265,2004-01-01,Caete,218.12,dados de treino
+266,2005-01-01,Caete,231.19,dados de treino
+267,2006-01-01,Caete,174.62,dados de treino
+268,2007-01-01,Caete,159.93,dados de treino
+269,2008-01-01,Caete,168.16,dados de treino
+270,2009-01-01,Caete,119.12,dados de treino
+271,2010-01-01,Caete,149.69,dados de treino
+272,2011-01-01,Caete,145.93,dados de treino
+273,2012-01-01,Caete,116.79,dados de treino
+274,2013-01-01,Caete,208.59,dados de treino
+275,2014-01-01,Caete,211.04,dados de treino
+276,2015-01-01,Caete,321.18,dados reais usados para o teste
+277,2016-01-01,Caete,451.73,dados reais usados para o teste
+278,2017-01-01,Caete,455.23,dados reais usados para o teste
+279,2018-01-01,Caete,327.77,dados reais usados para o teste
+280,2019-01-01,Caete,230.33,dados reais usados para o teste
+281,2020-01-01,Caete,102.12,dados reais usados para o teste
+282,2021-01-01,Caete,112.42,dados reais usados para o teste
+283,2015-01-01,Caete,225.57454781633078,projeções obtidas
+284,2016-01-01,Caete,312.7577267579877,projeções obtidas
+285,2017-01-01,Caete,274.54459599087915,projeções obtidas
+286,2018-01-01,Caete,307.8466711422829,projeções obtidas
+287,2019-01-01,Caete,299.78947553339106,projeções obtidas
+288,2020-01-01,Caete,189.95662384033642,projeções obtidas
+289,2021-01-01,Caete,134.9176160644398,projeções obtidas
+290,2000-01-01,Contagem,1120.04,dados de treino
+291,2001-01-01,Contagem,1087.24,dados de treino
+292,2002-01-01,Contagem,1373.19,dados de treino
+293,2003-01-01,Contagem,1652.44,dados de treino
+294,2004-01-01,Contagem,1645.28,dados de treino
+295,2005-01-01,Contagem,1541.75,dados de treino
+296,2006-01-01,Contagem,1366.99,dados de treino
+297,2007-01-01,Contagem,1156.85,dados de treino
+298,2008-01-01,Contagem,1026.09,dados de treino
+299,2009-01-01,Contagem,788.42,dados de treino
+300,2010-01-01,Contagem,764.45,dados de treino
+301,2011-01-01,Contagem,907.71,dados de treino
+302,2012-01-01,Contagem,1098.28,dados de treino
+303,2013-01-01,Contagem,1437.92,dados de treino
+304,2014-01-01,Contagem,1721.96,dados de treino
+305,2015-01-01,Contagem,1969.71,dados reais usados para o teste
+306,2016-01-01,Contagem,2124.32,dados reais usados para o teste
+307,2017-01-01,Contagem,1910.27,dados reais usados para o teste
+308,2018-01-01,Contagem,1419.63,dados reais usados para o teste
+309,2019-01-01,Contagem,938.46,dados reais usados para o teste
+310,2020-01-01,Contagem,626.36,dados reais usados para o teste
+311,2021-01-01,Contagem,374.56,dados reais usados para o teste
+312,2015-01-01,Contagem,1831.702541920879,projeções obtidas
+313,2016-01-01,Contagem,1869.808297730048,projeções obtidas
+314,2017-01-01,Contagem,1644.0199362401963,projeções obtidas
+315,2018-01-01,Contagem,1326.5221043388315,projeções obtidas
+316,2019-01-01,Contagem,1057.278252475535,projeções obtidas
+317,2020-01-01,Contagem,757.469712422453,projeções obtidas
+318,2021-01-01,Contagem,686.2839555558527,projeções obtidas
