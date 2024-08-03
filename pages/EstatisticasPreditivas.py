@@ -12,7 +12,7 @@ from statsmodels.tsa.arima.model import ARIMA
 dash.register_page(__name__)
 
 
-df = pd.read_csv('tabela_De_resultados.csv').reset_index()
+df = pd.read_csv('pages/tabela_De_resultados.csv').reset_index()
 df['Ano'] = pd.to_datetime(df['Data']).dt.year
 
 fig_test = px.line(df[df['Municipio'] == 'Belo Horizonte'],

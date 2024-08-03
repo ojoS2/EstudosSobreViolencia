@@ -8,10 +8,10 @@ import dash_ag_grid as dag
 from dash import dash_table as dt
 
 
-dash.register_page(__name__, path='/')
+#dash.register_page(__name__, path='/')
 
 
-df = pd.read_csv('FJP_data.csv')
+df = pd.read_csv('pages/FJP_data.csv')
 df = df.drop(columns=['Unnamed: 0'])
 df = df.fillna(np.NaN) 
 lista_de_opcoes_muni = list(df['Municipio'].unique()) + ["Belo Horizonte e entornos"]
@@ -23,11 +23,11 @@ fig_sc = px.scatter(df, x="Habitantes por policial militar", y="Taxa de crimes v
 
 #external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-#app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
+app = Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 #app = Dash(__name__, external_stylesheets=external_stylesheets)
 #app = Dash(external_stylesheets=external_stylesheets)
 
-layout = [
+app.layout = [
     # Todos os elementos do topo
     html.Div([
             html.H1(children='Testes das visualizações. Página principal'),
@@ -91,5 +91,5 @@ def update_figure_sc(value):
     return fig
 
 
-#if __name__ == '__main__':
-#    app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
