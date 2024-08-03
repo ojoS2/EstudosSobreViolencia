@@ -4,6 +4,7 @@ import dash_bootstrap_components as dbc
 
 #app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.CYBORG])
 app = Dash(__name__, use_pages=True)
+server = app.server
 app.layout = html.Div([
     html.H1('Estudo sobre segurança publica na micro-região de Belo Horizonte'),
     html.Div([
