@@ -16,7 +16,7 @@ dash.register_page(__name__)
 FONT_AWESOME = "https://use.fontawesome.com/releases/v5.10.2/css/all.css"
 df = pd.read_csv('pages/FJP_data.csv')
 df = df.drop(columns=['Unnamed: 0'])
-df = df.fillna(np.NaN) 
+df = df.fillna(np.nan) 
 lista_de_opcoes_muni = list(df['Municipio'].unique()) + ["Belo Horizonte e entornos"]
 lista_de_opcoes_ano = list(df['Ano'].unique()) + ["Todos os anos"]
 
